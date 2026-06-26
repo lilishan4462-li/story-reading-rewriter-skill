@@ -1,0 +1,8 @@
+interface:
+  display_name: "追剧式读书改写器"
+  short_description: "把难读书改写成连续知识小说的工作流。"
+  default_prompt: "Use $story-reading-rewriter to turn a dense book chapter into a binge-readable continuous knowledge novel."
+
+policy:
+  allow_implicit_invocation: true
+
